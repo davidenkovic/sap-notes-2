@@ -22,40 +22,40 @@ die richtige Person zu richtigen Arbeit erhält.
 === Übung 00 Hello World Style
 
 
-image::image-2022-03-02-14-31-58-503.png[]
+image::images/image-2022-03-02-14-31-58-503.png[]
 
-image::image-2022-03-02-14-34-48-408.png[]
+image::images/image-2022-03-02-14-34-48-408.png[]
 
-image::image-2022-03-02-14-37-24-653.png[]
+image::images/image-2022-03-02-14-37-24-653.png[]
 
-image::image-2022-03-02-14-38-05-923.png[]
+image::images/image-2022-03-02-14-38-05-923.png[]
 
-image::image-2022-03-02-14-38-49-287.png[]
+image::images/image-2022-03-02-14-38-49-287.png[]
 
-image::image-2022-03-02-14-39-08-213.png[]
+image::images/image-2022-03-02-14-39-08-213.png[]
 
-image::image-2022-03-02-14-45-31-186.png[]
+image::images/image-2022-03-02-14-45-31-186.png[]
 
-image::image-2022-03-02-14-52-11-500.png[]
+image::images/image-2022-03-02-14-52-11-500.png[]
 
-image::image-2022-03-02-14-52-23-125.png[]
+image::images/image-2022-03-02-14-52-23-125.png[]
 
-image::image-2022-03-02-14-54-21-870.png[]
+image::images/image-2022-03-02-14-54-21-870.png[]
 
-image::image-2022-03-02-14-55-00-166.png[]
+image::images/image-2022-03-02-14-55-00-166.png[]
 
-image::image-2022-03-02-14-55-48-714.png[]
+image::images/image-2022-03-02-14-55-48-714.png[]
 
-image::image-2022-03-02-14-56-59-492.png[]
+image::images/image-2022-03-02-14-56-59-492.png[]
 
-image::image-2022-03-02-14-57-40-514.png[]
+image::images/image-2022-03-02-14-57-40-514.png[]
 
-image::image-2022-03-02-14-58-01-664.png[]
+image::images/image-2022-03-02-14-58-01-664.png[]
 
-image::image-2022-03-02-14-58-40-662.png[]
+image::images/image-2022-03-02-14-58-40-662.png[]
 
-image::image-2022-03-02-15-11-42-169.png[]
+image::images/image-2022-03-02-15-11-42-169.png[]
 
-image::image-2022-03-02-15-14-16-478.png[]
+image::images/image-2022-03-02-15-14-16-478.png[]
 
-image::image-2022-03-02-15-18-25-505.png[]
+image::images/image-2022-03-02-15-18-25-505.png[]
